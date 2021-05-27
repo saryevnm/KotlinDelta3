@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinHomework3</string>
+    <string name="home">Plus/Minus</string>
+    <string name="notification">Result</string>
+    <string name="profile">History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="minus">minus</string>
+    <string name="add">add</string>
+</resources>
